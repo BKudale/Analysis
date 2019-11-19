@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AnalysisManager'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'AnalysisManager for Test purpose.'
 
 # This description is used to generate tags and improve search results.
@@ -38,5 +38,6 @@ Pod::Spec.new do |s|
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking'
+  s.dependency 'Alamofire' 
+  s.dependency 'SVProgressHUD'
 end
