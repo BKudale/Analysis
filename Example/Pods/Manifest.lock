@@ -1,0 +1,16 @@
+PODS:
+  - AnalysisManager (0.1.0)
+
+DEPENDENCIES:
+  - AnalysisManager (from `../`)
+
+EXTERNAL SOURCES:
+  AnalysisManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AnalysisManager: 1050ce7e656fbc72b6d0ebac7ef15ac413f18912
+
+PODFILE CHECKSUM: 7281b5caf32dd1ef9edbfe03ae075925d2fe2583
+
+COCOAPODS: 1.7.5

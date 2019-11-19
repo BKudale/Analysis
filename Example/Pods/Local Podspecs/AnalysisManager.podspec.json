@@ -1,0 +1,22 @@
+{
+  "name": "AnalysisManager",
+  "version": "0.1.0",
+  "summary": "A short description of AnalysisManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bharat@sphinx-solution.com/AnalysisManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bharat@sphinx-solution.com": "bharat@sphinx-solution.com"
+  },
+  "source": {
+    "git": "https://github.com/bharat@sphinx-solution.com/AnalysisManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AnalysisManager/Classes/**/*"
+}
